@@ -1,5 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends and improve decision making in regards to which campaigns to pursue, when to pursue them, and what the budget should be
+
 *Theater and music appear to be the most popular parent categories*
 ![Chart 1](https://user-images.githubusercontent.com/115741212/196755376-52539e5c-e9ef-4110-a811-30540f475986.png)
 *Plays appear to be the most popular subcategory*
