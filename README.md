@@ -1,4 +1,4 @@
-# Analysis-of-Theater-Outcomes
+# Analysis of Theater Outcomes
 
 ## Overview
   I conducted an analysis of theater outcomes by launch date and an analysis of play (theater) outcomes based on funding goals. The purpose of this analysis was to gain meaningful insight into kickstarter trends so that I could provide Louise with comparisons to her own production. I expect this information to assist Louise in making improved decisions in the future. 
